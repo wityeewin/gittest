@@ -1,4 +1,4 @@
 Git and GitHub do commits on pretty much any file type for writing, although it works best with plain text. If you write in Microsoft Word, it’ll work, but you won’t be able to see your past commits on the command line or in GitHub. Instead, you have to call up a past commit on the command line (called a “checkout”), and then open your Word file. The Word file then looks just as it did when you made the original commit, and you can get back to your current version with another quick command.
 
 
-add this line
+not add this line
