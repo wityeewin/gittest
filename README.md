@@ -14,3 +14,5 @@ I love Git!
 This is the new changes I made in ncl_test sub-branch!
 
 where have you been, git?
+
+Introduction to Git_amber
